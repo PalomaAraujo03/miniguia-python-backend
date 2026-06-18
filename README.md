@@ -500,25 +500,24 @@ O FastAPI é voltado para a construção de APIs de altíssimo desempenho, com p
 
 ### 📘 Glossário
 
+
 | Termo | Definição |
 |-------|-----------|
-| BACKEND | *(Refere-se aos "bastidores" de uma aplicação, onde ocorre o processamento de dados, lógica de negócio e cálculos no servidor
-. É a parte que o usuário não enxerga, mas que sustenta o funcionamento do sistema)*|
-| Framework | *(Coleção de ferramentas e regras (como Django, Flask ou FastAPI) que aceleram o desenvolvimento e resolvem problemas comuns
-. Eles organizam a estrutura do código e fornecem funcionalidades prontas como autenticação e acesso a dados)*|
-| Rota | *(preencha)* |
-| HTTP | *(preencha)* |
-| GET / POST / PUT / DELETE | *(preencha)* |
-| Request / Response | *(preencha)* |
-| JSON | *(preencha)* |
-| Framework | *(preencha)* |
-| Pydantic | *(preencha)* |
-| Uvicorn | *(preencha)* |
-| ASGI / WSGI | *(preencha)* |
-| Virtual Environment (venv) | *(preencha)* |
-| Swagger UI | *(preencha)* |
-| CRUD | *(preencha)* |
-
+| Back-end | Parte "dos bastidores" de uma aplicação onde ocorre o processamento de dados, lógica de negócio e cálculos no servidor. É o que sustenta o funcionamento do sistema sem que o usuário veja. |
+| Framework | Coleção de ferramentas e regras (como Django, Flask ou FastAPI) que aceleram o desenvolvimento e resolvem problemas comuns, fornecendo funcionalidades prontas como autenticação e acesso a dados. |
+| API (Application Programming Interface) | Conjunto de protocolos que permite que diferentes aplicações se comuniquem entre si. Funciona como uma interface padrão para que o front-end solicite recursos ao servidor. |
+| Métodos HTTP | Verbos que definem a ação de uma requisição: GET (leitura), POST (criação), PUT (atualização) e DELETE (exclusão). Orientam como o servidor deve manipular um recurso específico. |
+| Rotas / Endpoints | URLs específicas que identificam o ponto de acesso a um recurso no servidor. Cada rota é mapeada para uma função de código que processa a solicitação do cliente. |
+| Banco de Dados | Sistema responsável por armazenar, recuperar e organizar informações de forma persistente. Podem ser relacionais (ex: PostgreSQL), que usam tabelas, ou não-relacionais (ex: MongoDB). |
+| ORM (Object-Relational Mapping) | Tecnologia que mapeia tabelas de banco de dados para classes e objetos no código. Permite manipular dados usando Python puro, sem precisar escrever SQL nativo. |
+| Autenticação | Processo de verificação da identidade de um usuário, geralmente via login e senha. Garante que a pessoa acessando o sistema é realmente quem ela diz ser. |
+| Autorização | Mecanismo que determina se um usuário já autenticado possui permissão para acessar áreas ou recursos específicos. Concede ou nega direitos de acesso com base na identidade do usuário. |
+| Hashing | Técnica de transformar senhas em códigos criptográficos irreversíveis para armazenamento seguro no banco de dados. Protege as senhas originais mesmo em caso de vazamento de dados. |
+| Sessão (Session) | Recurso que permite ao servidor manter o estado e memorizar informações do usuário entre diferentes interações. É o que mantém o usuário "logado" enquanto navega por várias páginas. |
+| Deploy | Ato de implantar a aplicação em um servidor de produção para torná-la disponível na internet. Envolve o uso de servidores robustos e seguros como Gunicorn ou Nginx. |
+| Docker | Ferramenta de criação de contêineres que isolam a aplicação e suas dependências. Garante que o sistema funcione da mesma forma em qualquer computador ou servidor. |
+| Async / Await | Comandos de programação assíncrona que permitem ao servidor realizar múltiplas tarefas simultaneamente sem travar. Essencial para alta performance em frameworks como o FastAPI. |
+| Pydantic | Biblioteca de validação de dados baseada em tipos, usada para garantir que as informações enviadas à API estejam no formato correto. Automatiza a verificação de erros e a geração de documentação. |
 ---
 
 ### 🔁 Prompts Reutilizáveis para Revisão Futura
