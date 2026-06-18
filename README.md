@@ -24,19 +24,27 @@ O desenvolvimento back-end com Python é uma das habilidades mais demandadas no 
 
 ---
 
+
 ## 📚 Curadoria de Fontes
 
-As fontes abaixo foram selecionadas e carregadas no NotebookLM:
+As fontes abaixo foram selecionadas, analisadas e carregadas no NotebookLM para embasar este caderno temático sobre Python para Back-end.
 
-| # | Tipo | Fonte | Link |
-|---|------|-------|------|
-| 1 | 📄 Documentação | Documentação oficial do FastAPI | https://fastapi.tiangolo.com/tutorial/ |
-| 2 | 📄 Documentação | Documentação oficial do Flask | https://flask.palletsprojects.com/en/stable/ |
-| 3 | 📝 Artigo | Real Python — Get Started with FastAPI | https://realpython.com/get-started-with-fastapi/ |
-| 4 | 📝 Artigo | DataCamp — Python Backend Development | https://www.datacamp.com/tutorial/python-backend-development |
-| 5 | 🎬 Vídeo | YouTube — Curso FastAPI (Hashtag Treinamentos) | *(inserir link do YouTube aqui)* |
+| # | Tipo | Título | Descrição | Link |
+|---|------|--------|-----------|------|
+| 1 | 🎬 Vídeo | #1 - Backend com Python - Primeiros passos com Web API | Explicação fundamental sobre o papel do back-end e Web APIs. | [YouTube](https://www.youtube.com/watch?v=) |
+| 2 | 📝 Artigo | Roadmap Python 2026: Como Estudar Python Passo a Passo | Plano de estudos estruturado para guiar o progresso em Python em 2026. | [Academify](https://academify.com.br) |
+| 3 | 📄 E-book | Desenvolvimento Web com Python e Django | E-book didático focado em desenvolvimento web com Python e Django. | (https://pythonacademy.com.br/assets/ebooks/desenvolvimento-web-com-python-e-django/EBOOK-PythonAcademy-Desenvolvimento-Web-com-Python-e-Django.pdf) |
+| 4 | 📝 Artigo | Domine o Backend com Python: Dicas para Iniciantes | Conceitos práticos sobre variáveis, funções e lógica para iniciantes em back-end. | [DIO](https://www.dio.me) |
+| 5 | 💬 Fórum | Quais as diferenças entre Flask e Django? | Comparação técnica entre micro-frameworks (Flask) e frameworks full-stack (Django). | [Stack Overflow PT](https://pt.stackoverflow.com) |
+| 6 | 📝 Tutorial | Começando com FastAPI: construa sua primeira API em Python | Tutorial passo a passo para criar sua primeira API com FastAPI — Python Brasil 2025. | [Python Brasil 2025](https://talks.python.org.br/pythonbrasil-2025/talk/ZWA7F3/) |
+| 7 | 🎬 Vídeo | Como conectar sua aplicação Python no PostgreSQL | Guia prático para conectar aplicações Python ao banco de dados PostgreSQL. | [YouTube](https://www.youtube.com/watch?v=) |
+| 8 | 📝 Artigo | Como criar Middlewares no Django | Entenda como middlewares processam requisições e respostas em aplicações reais. | [Python Academy](https://pythonacademy.com.br) |
+| 9 | 📝 Artigo | 5 Formas Gratuitas de Hospedar Uma Aplicação Python | Cinco opções gratuitas para colocar seu projeto Python na nuvem. | [Data Science Academy](https://www.datascienceacademy.com.br) |
+| 10 | 💬 Comunidade | Projetos em Python para iniciantes/intermediários? | Sugestões de projetos práticos para construir um portfólio profissional sólido. | [Reddit - r/learnpython](https://www.reddit.com/r/learnpython/) |
 
-> **Critério de seleção:** fontes gratuitas, abertas, atualizadas e com abordagem técnica acessível para iniciantes. Priorizei fontes oficiais e canais reconhecidos pela comunidade Python.
+> **Critério de seleção:** fontes gratuitas e abertas, com abordagem prática e acessível para iniciantes. A curadoria cobre desde conceitos fundamentais até tópicos avançados como banco de dados, middlewares e deploy, formando uma trilha de aprendizado completa.
+
+
 
 ---
 
