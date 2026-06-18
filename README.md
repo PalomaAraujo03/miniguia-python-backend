@@ -184,7 +184,7 @@ Toda resposta do servidor inclui um código de status HTTP, que informa ao clien
 .
 Ao seguir esses padrões, uma API REST torna-se legível, escalável e fácil de manter, permitindo que diferentes desenvolvedores integrem seus sistemas de forma eficiente*
 
-- 💡 Observações: * Não tive que refazer o comando*
+- 💡 Observações: * Não precisei refazer o comando*
 
 ---
 
@@ -272,8 +272,8 @@ Ação: O servidor identifica o registro pelo ID "1" e o deleta permanentemente 
 .
 Essa estrutura garante que a aplicação seja legível, mantível e escalável, permitindo que diferentes desenvolvedores entendam facilmente como interagir com a API
 *
-- ⚠️ Dificuldade encontrada: Não tive dificuldade
-- 🔁 Prompt ajustado: Não precisou ajustar 
+- ⚠️ Dificuldade encontrada: Não tive dificuldades
+- 🔁 Prompt ajustado: Não precisei ajustar 
   
 
 ---
