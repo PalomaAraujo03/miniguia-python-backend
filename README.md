@@ -502,10 +502,10 @@ O FastAPI é voltado para a construção de APIs de altíssimo desempenho, com p
 
 | Termo | Definição |
 |-------|-----------|
+| BACKEND | * Refere-se aos "bastidores" de uma aplicação, onde ocorre o processamento de dados, lógica de negócio e cálculos no servidor
 . É a parte que o usuário não enxerga, mas que sustenta o funcionamento do sistema* |
-| BACKEND | *  * |
-| REST | *()* |
-| Endpoint | *(preencha)* |
+| Framework | * Coleção de ferramentas e regras (como Django, Flask ou FastAPI) que aceleram o desenvolvimento e resolvem problemas comuns
+. Eles organizam a estrutura do código e fornecem funcionalidades prontas como autenticação e acesso a dados* |
 | Rota | *(preencha)* |
 | HTTP | *(preencha)* |
 | GET / POST / PUT / DELETE | *(preencha)* |
